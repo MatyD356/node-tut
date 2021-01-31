@@ -1,0 +1,19 @@
+{
+  "name": "firstApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module.js",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "nodemailer": "^6.4.17",
+    "upper-case": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
